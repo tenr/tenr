@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tenr
 - 👀 I’m interested in design, web development, biking, weight training and film
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on e-commerce & creative portfolio sites 
+- 🌱 I’m currently learning Javascript & the GSAP Library 
 - 📫 How to reach me on twitter: @_tenr 
 
 <!---
