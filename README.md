@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @tenr
 - 👀 I’m interested in design, web development, biking, weight training and film
-- 🌱 I’m currently learning Javascript & the GSAP Library 
+- 🌱 I’m currently learning React, Next.js & the GSAP Library 
 - 📫 How to reach me on twitter: @_tenr 
 
 
