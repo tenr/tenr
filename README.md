@@ -1,4 +1,3 @@
-(your image link)](your GitHub link)
 
 
 - 👋 Hi, I’m @tenr
@@ -9,7 +8,7 @@
 
 
 
-[(https://github-readme-stats.vercel.app/api?username=tenr&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenr&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 tenr/tenr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
