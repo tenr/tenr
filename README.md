@@ -16,7 +16,7 @@
 
 ![github-user-contribution](https://user-images.githubusercontent.com/8810441/235407056-916e1ba2-10a6-41d6-8719-92606bed70b1.svg)
 
-                                      THIS IS JUST THE START! 
+                             THIS IS JUST THE START! 
 
 
 <!---
