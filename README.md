@@ -5,10 +5,6 @@
 - 🌱 I’m currently learning React, Next.js & the GSAP Library 
 - 📫 How to reach me on twitter: @_tenr 
 
-
-
-
-<br>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenr&count_private=true&hide=stars,issues&theme=ocean_dark)](https://github.com/tenr/github-readme-stats)
