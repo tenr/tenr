@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @tenr
-- 👀 I’m interested in design, web development, biking, weight training and film
+- 👀 My interests include design, web development and biking
 - 🌱 I’m currently working in React, Next.js & the GSAP Library 
 - 📫 How to reach me on twitter: @_tenr 
 
